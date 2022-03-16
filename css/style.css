@@ -18,4 +18,10 @@ body {
 
 .parceiros {
     background-color: #58faf4;
+    color: rgb(60, 58, 151);
+}
+
+.bg-footer{
+    background-color:black;
+    color: white;
 }
